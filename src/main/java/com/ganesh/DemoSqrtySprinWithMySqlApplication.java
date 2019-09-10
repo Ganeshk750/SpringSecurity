@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoSqrtySpringApplication {
+public class DemoSqrtySprinWithMySqlApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoSqrtySpringApplication.class, args);
+		SpringApplication.run(DemoSqrtySprinWithMySqlApplication.class, args);
 	}
 
 }
